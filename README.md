@@ -12,8 +12,6 @@ This is a research project on employees of the corporation from the 1980s and 19
   - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 **File Organization**
-Schemata.sql stores the table schemata, query.sql stores the quries.
-
-ERD.png shows the ERD
-
-A jupyter Notebook file shows the analysis on salary histogram and average salary by title in bar chart.
+- Schemata.sql stores the table schemata, query.sql stores the quries.
+- ERD.png shows the ERD
+- A jupyter Notebook file shows the analysis on salary histogram and average salary by title in bar chart.
