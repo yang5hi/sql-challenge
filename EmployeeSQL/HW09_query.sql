@@ -94,4 +94,4 @@ ORDER BY "frequence count of emplyee last names" desc;
 --Epilogue (April Foolsday)
 SELECT *
 FROM employees
-WHERE emp_no=499942
+WHERE emp_no='499942';
