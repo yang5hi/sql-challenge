@@ -5,7 +5,7 @@ This research project is on employees of the corporation from the 1980s and 1990
   - Specify the data types and **foreign keys**.
   - Import each CSV file into the corresponding SQL table
 
-And performed the following **queries**:
+**Queries**:
   - List the following details of each employee: employee number, last name, first name, sex, and salary.
   - List first name, last name, and hire date for employees who were hired in 1986.
   - List the department manager with the following information: department number, department name, the manager's employee number, last name, first name.
@@ -18,6 +18,7 @@ And performed the following **queries**:
 **Pandas** with **SQLalchemy**:
   - Import the SQL database into Pandas.
   - Plot salary data to showcase the findings.
+
 
 File Organization
 - Schemata.sql stores the table schemata, query.sql stores the queries.
