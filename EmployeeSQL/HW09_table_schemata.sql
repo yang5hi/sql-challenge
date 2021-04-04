@@ -18,7 +18,8 @@ CREATE TABLE "departments" (
 
 CREATE TABLE "dept_emp" (
     "emp_no" varchar(10)   NOT NULL,
-    "dept_no" varchar(10)   NOT NULL
+    "dept_no" varchar(10)   NOT NULL,
+	PRIMARY KEY (emp_no, dept_no)
 );
 
 CREATE TABLE "dept_manager" (
