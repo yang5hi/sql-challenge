@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL Challenge
 
 This research project is on employees of the corporation from the 1980s and 1990s. The record is in six csv files. I design the **SQL** tables under **pgAdmin 4** to hold data in the CSVs and imported it into a **SQL database** called EmployeeSQL. 
   - Use the unique column as the **primary key** or create a **composite key** as the primary key.
