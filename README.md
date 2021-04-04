@@ -15,6 +15,10 @@ And performed the following queries:
   - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
   - In descending order, list the frequency count of employee last names, i.e., how many employees share each other's last name.
 
+Pandas with SQLalchemy:
+  - Import the SQL database into Pandas.
+  - Plot salary data to showcase the findings.
+
 **File Organization**
 - Schemata.sql stores the table schemata, query.sql stores the queries.
 - ERD.png shows the ERD
