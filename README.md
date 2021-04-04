@@ -1,6 +1,6 @@
 # sql-challenge
 
-This research project is on employees of the corporation from the 1980s and 1990s. The record is in six csv files. I design the **SQL** tables under **pgAdmin 4** to hold data in the CSVs and imported it into a SQL database called EmployeeSQL. 
+This research project is on employees of the corporation from the 1980s and 1990s. The record is in six csv files. I design the **SQL** tables under **pgAdmin 4** to hold data in the CSVs and imported it into a **SQL database** called EmployeeSQL. 
   - Use the unique column as the **primary key** or create a **composite key** as the primary key.
   - Specify the data types and **foreign keys**.
   - Import each CSV file into the corresponding SQL table
@@ -20,7 +20,7 @@ This research project is on employees of the corporation from the 1980s and 1990
   - Plot salary data to showcase the findings.
 
 
-File Organization
+### File Organization
 - Schemata.sql stores the table schemata, query.sql stores the queries.
 - ERD.png shows the **ERD**
 - A jupyter Notebook file shows the analysis on salary histogram and average salary by title in a bar chart.
