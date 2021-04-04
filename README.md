@@ -20,7 +20,7 @@ This research project is on employees of the corporation from the 1980s and 1990
   - Plot salary data to showcase the findings.
 
 
-### File Organization
+# File Organization
 - Schemata.sql stores the table schemata, query.sql stores the queries.
 - ERD.png shows the **ERD**
 - A jupyter Notebook file shows the analysis on salary histogram and average salary by title in a bar chart.
